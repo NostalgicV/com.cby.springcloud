@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e350b27-945b-4916-a5e6-655fac29b69b" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="27B5V6kQo7CH6rO11IyFdtub61y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/payment8002/src/main/resources/mapper" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.41696113" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java学习\资料\springboot2-master\com.cby.springcloud\payment8002\src\main\resources\mapper" />
+      <recent name="E:\java学习\资料\springboot2-master\com.cby.springcloud\payment8002\src\main\resources" />
+      <recent name="E:\java学习\资料\springboot2-master\com.cby.springcloud\payment8002\src\main\java" />
+      <recent name="E:\java学习\资料\springboot2-master\com.cby.springcloud\common\src\main\java\com\cby\springcloud\entities" />
+      <recent name="E:\java学习\资料\springboot2-master\com.cby.springcloud\Commons\src\main\java\com\cby\springcloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GateWayMain">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cby.springcloud.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.eureka.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.eureka.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.GateWayMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboard" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hystrix-Dashboard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cby.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.HystrixDashboard" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="openfeign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cby.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.OrderFeignMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayemntHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cby.cloudspring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.cloudspring.PayemntHystrixMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymenMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="payment8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cby.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.PaymenMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.OrderMain80" />
+      <item itemvalue="Spring Boot.EurekaMain7002" />
+      <item itemvalue="Spring Boot.PaymentMain8001" />
+      <item itemvalue="Spring Boot.GateWayMain" />
+      <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.PaymenMain8002" />
+      <item itemvalue="Spring Boot.OrderFeignMain80" />
+      <item itemvalue="Spring Boot.PayemntHystrixMain8001" />
+      <item itemvalue="Spring Boot.HystrixDashboard" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Spring Boot.PayemntHystrixMain8001" />
+        <item itemvalue="Spring Boot.HystrixDashboard" />
+        <item itemvalue="Spring Boot.OrderFeignMain80" />
+        <item itemvalue="Spring Boot.PaymenMain8002" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9e350b27-945b-4916-a5e6-655fac29b69b" name="变更" comment="" />
+      <created>1648780659224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648780659224</updated>
+      <workItem from="1648780660799" duration="1628000" />
+      <workItem from="1648782307026" duration="2306000" />
+      <workItem from="1648795854910" duration="325000" />
+      <workItem from="1648803963447" duration="1475000" />
+      <workItem from="1648805469404" duration="3675000" />
+      <workItem from="1648821315331" duration="1231000" />
+      <workItem from="1648865327413" duration="3937000" />
+      <workItem from="1648869330984" duration="1916000" />
+      <workItem from="1648882933489" duration="1529000" />
+      <workItem from="1648892750922" duration="2078000" />
+      <workItem from="1648894861975" duration="568000" />
+      <workItem from="1648895459045" duration="820000" />
+      <workItem from="1648949177646" duration="1679000" />
+      <workItem from="1648950882370" duration="438000" />
+      <workItem from="1648951332602" duration="759000" />
+      <workItem from="1648952130926" duration="2222000" />
+      <workItem from="1648954390741" duration="3261000" />
+      <workItem from="1648982582936" duration="1102000" />
+      <workItem from="1649035731495" duration="2946000" />
+      <workItem from="1649038806322" duration="2301000" />
+      <workItem from="1649041485158" duration="4261000" />
+      <workItem from="1649057279757" duration="2022000" />
+      <workItem from="1649140139552" duration="609000" />
+      <workItem from="1649147044100" duration="1846000" />
+      <workItem from="1649235913425" duration="5009000" />
+      <workItem from="1649298234184" duration="762000" />
+      <workItem from="1649303944392" duration="1508000" />
+      <workItem from="1649314613292" duration="329000" />
+      <workItem from="1649317296494" duration="732000" />
+      <workItem from="1649321304634" duration="3695000" />
+      <workItem from="1649382562642" duration="1104000" />
+      <workItem from="1649383685728" duration="3211000" />
+      <workItem from="1649422751458" duration="39000" />
+      <workItem from="1649466244357" duration="4274000" />
+      <workItem from="1649474755966" duration="2231000" />
+      <workItem from="1649498964164" duration="1342000" />
+      <workItem from="1649554366081" duration="2003000" />
+      <workItem from="1649562775444" duration="1827000" />
+      <workItem from="1649583135843" duration="3789000" />
+      <workItem from="1649640922561" duration="3213000" />
+      <workItem from="1649729777951" duration="1053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

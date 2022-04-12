@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.cby.springcloud.iml" filepath="$PROJECT_DIR$/com.cby.springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka7001/eureka7001.iml" filepath="$PROJECT_DIR$/eureka7001/eureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka7002/eureka7002.iml" filepath="$PROJECT_DIR$/eureka7002/eureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-Dashboard/hystrix-Dashboard.iml" filepath="$PROJECT_DIR$/hystrix-Dashboard/hystrix-Dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfeign/openfeign.iml" filepath="$PROJECT_DIR$/openfeign/openfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfeign-hystrix-80/openfeign-hystrix-80.iml" filepath="$PROJECT_DIR$/openfeign-hystrix-80/openfeign-hystrix-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order80/order80.iml" filepath="$PROJECT_DIR$/order80/order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment8001/payment8001.iml" filepath="$PROJECT_DIR$/payment8001/payment8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment8002/payment8002.iml" filepath="$PROJECT_DIR$/payment8002/payment8002.iml" />
+    </modules>
+  </component>
+</project>

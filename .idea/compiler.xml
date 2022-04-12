@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="openfeign" />
+        <module name="eureka7001" />
+        <module name="payment8002" />
+        <module name="hystrix" />
+        <module name="common" />
+        <module name="openfeign-hystrix-80" />
+        <module name="hystrix-Dashboard" />
+        <module name="eureka7002" />
+        <module name="order80" />
+        <module name="payment8001" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.cby.springcloud" target="1.8" />
+      <module name="common" target="8" />
+      <module name="commons" target="8" />
+      <module name="Commons" target="8" />
+      <module name="eureka7001" target="8" />
+      <module name="eureka7002" target="8" />
+      <module name="gateway" target="8" />
+      <module name="hystrix" target="8" />
+      <module name="hystrix-Dashboard" target="8" />
+      <module name="openfeign" target="8" />
+      <module name="openfeign-hystrix-80" target="8" />
+      <module name="order80" target="8" />
+      <module name="payment8001" target="8" />
+      <module name="payment8002" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
