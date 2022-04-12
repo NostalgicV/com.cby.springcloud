@@ -26,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -41,6 +44,7 @@
     <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="27B5V6kQo7CH6rO11IyFdtub61y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -253,12 +257,24 @@
       <workItem from="1649562775444" duration="1827000" />
       <workItem from="1649583135843" duration="3789000" />
       <workItem from="1649640922561" duration="3213000" />
-      <workItem from="1649729777951" duration="1053000" />
+      <workItem from="1649729777951" duration="1380000" />
     </task>
+    <task id="LOCAL-00001" summary="..">
+      <created>1649731164873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649731164874</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
