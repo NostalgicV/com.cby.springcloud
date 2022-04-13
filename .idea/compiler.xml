@@ -18,6 +18,7 @@
         <module name="order80" />
         <module name="payment8001" />
         <module name="gateway" />
+        <module name="config-center" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,6 +26,7 @@
       <module name="common" target="8" />
       <module name="commons" target="8" />
       <module name="Commons" target="8" />
+      <module name="config-center" target="8" />
       <module name="eureka7001" target="8" />
       <module name="eureka7002" target="8" />
       <module name="gateway" target="8" />

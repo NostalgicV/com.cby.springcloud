@@ -20,6 +20,7 @@
         <module>openfeign-hystrix-80</module>
         <module>hystrix-Dashboard</module>
         <module>gateway</module>
+        <module>config-center</module>
     </modules>
 
     <packaging>pom</packaging>

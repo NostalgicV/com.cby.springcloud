@@ -7,8 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e350b27-945b-4916-a5e6-655fac29b69b" name="变更" comment="">
+    <list default="true" id="9e350b27-945b-4916-a5e6-655fac29b69b" name="变更" comment="..">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +55,9 @@
     <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="27B5V6kQo7CH6rO11IyFdtub61y" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +78,7 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.41696113" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -90,7 +96,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.GateWayMain">
+  <component name="RunManager" selected="Spring Boot.EurekaMain7001">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,6 +104,19 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigMain3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cby.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.ConfigMain3344" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -175,19 +194,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymenMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="payment8002" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cby.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.PaymenMain8002" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="payment8001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.PaymentMain8001" />
@@ -200,19 +206,19 @@
       <item itemvalue="Spring Boot.EurekaMain7002" />
       <item itemvalue="Spring Boot.PaymentMain8001" />
       <item itemvalue="Spring Boot.GateWayMain" />
-      <item itemvalue="Spring Boot.EurekaMain7001" />
-      <item itemvalue="Spring Boot.PaymenMain8002" />
       <item itemvalue="Spring Boot.OrderFeignMain80" />
       <item itemvalue="Spring Boot.PayemntHystrixMain8001" />
       <item itemvalue="Spring Boot.HystrixDashboard" />
+      <item itemvalue="Spring Boot.ConfigMain3344" />
+      <item itemvalue="Spring Boot.EurekaMain7001" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConfigMain3344" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
         <item itemvalue="Spring Boot.HystrixDashboard" />
         <item itemvalue="Spring Boot.PayemntHystrixMain8001" />
         <item itemvalue="Spring Boot.OrderFeignMain80" />
-        <item itemvalue="Spring Boot.PaymenMain8002" />
-        <item itemvalue="Spring Boot.EurekaMain7001" />
       </list>
     </recent_temporary>
   </component>
@@ -266,6 +272,8 @@
       <workItem from="1649640922561" duration="3213000" />
       <workItem from="1649729777951" duration="3022000" />
       <workItem from="1649735748012" duration="339000" />
+      <workItem from="1649744122171" duration="1385000" />
+      <workItem from="1649813417683" duration="4986000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1649731164873</created>
@@ -288,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649736481487</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="..">
+      <created>1649744302447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649744302447</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
