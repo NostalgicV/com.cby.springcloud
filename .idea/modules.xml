@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudAlibab-payment-9001/cloudAlibab-payment-9001.iml" filepath="$PROJECT_DIR$/cloudAlibab-payment-9001/cloudAlibab-payment-9001.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cby.springcloud.iml" filepath="$PROJECT_DIR$/com.cby.springcloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-center/config-center.iml" filepath="$PROJECT_DIR$/config-center/config-center.iml" />

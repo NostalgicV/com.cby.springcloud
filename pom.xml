@@ -21,6 +21,7 @@
         <module>hystrix-Dashboard</module>
         <module>gateway</module>
         <module>config-center</module>
+        <module>cloudAlibab-payment-9001</module>
     </modules>
 
     <packaging>pom</packaging>

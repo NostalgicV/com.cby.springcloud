@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e350b27-945b-4916-a5e6-655fac29b69b" name="变更" comment="..">
+    <list default="true" id="9e350b27-945b-4916-a5e6-655fac29b69b" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -70,7 +70,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/payment8002/src/main/resources/mapper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../练习代码/RabbitMQ" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -78,7 +78,7 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.41696113" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -96,7 +96,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaMain7001">
+  <component name="RunManager" selected="Spring Boot.CloudAlibabaPayment9001">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,6 +104,19 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudAlibabaPayment9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudAlibab-payment-9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cby.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.CloudAlibabaPayment9001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,19 +174,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="openfeign" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cby.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.OrderFeignMain80" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.OrderMain80" />
@@ -194,6 +194,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PaymenMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.PaymenMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="payment8001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.PaymentMain8001" />
@@ -206,19 +213,20 @@
       <item itemvalue="Spring Boot.EurekaMain7002" />
       <item itemvalue="Spring Boot.PaymentMain8001" />
       <item itemvalue="Spring Boot.GateWayMain" />
-      <item itemvalue="Spring Boot.OrderFeignMain80" />
+      <item itemvalue="Spring Boot.PaymenMain8002" />
       <item itemvalue="Spring Boot.PayemntHystrixMain8001" />
       <item itemvalue="Spring Boot.HystrixDashboard" />
       <item itemvalue="Spring Boot.ConfigMain3344" />
       <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.CloudAlibabaPayment9001" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.CloudAlibabaPayment9001" />
         <item itemvalue="Spring Boot.ConfigMain3344" />
         <item itemvalue="Spring Boot.EurekaMain7001" />
         <item itemvalue="Spring Boot.HystrixDashboard" />
         <item itemvalue="Spring Boot.PayemntHystrixMain8001" />
-        <item itemvalue="Spring Boot.OrderFeignMain80" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +281,10 @@
       <workItem from="1649729777951" duration="3022000" />
       <workItem from="1649735748012" duration="339000" />
       <workItem from="1649744122171" duration="1385000" />
-      <workItem from="1649813417683" duration="4986000" />
+      <workItem from="1649813417683" duration="5621000" />
+      <workItem from="1649902492505" duration="34000" />
+      <workItem from="1649995278449" duration="1812000" />
+      <workItem from="1650078490212" duration="1377000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1649731164873</created>
@@ -303,7 +314,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649744302447</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="..">
+      <created>1649819478838</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649819478838</updated>
+    </task>
+    <task id="LOCAL-00006" summary="..">
+      <created>1649819500997</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649819500997</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
