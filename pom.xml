@@ -22,6 +22,7 @@
         <module>gateway</module>
         <module>config-center</module>
         <module>cloudAlibab-payment-9001</module>
+        <module>seate-order-service2001</module>
     </modules>
 
     <packaging>pom</packaging>

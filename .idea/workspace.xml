@@ -70,7 +70,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../练习代码/RabbitMQ" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/seate-order-service2001/src/main/java/com/cby/springcloud" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -82,11 +82,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java\Data\springboot2-master\com.cby.springcloud\seate-order-service2001\src\main\java\com\cby\springcloud" />
       <recent name="E:\java学习\资料\springboot2-master\com.cby.springcloud\payment8002\src\main\resources\mapper" />
       <recent name="E:\java学习\资料\springboot2-master\com.cby.springcloud\payment8002\src\main\resources" />
       <recent name="E:\java学习\资料\springboot2-master\com.cby.springcloud\payment8002\src\main\java" />
       <recent name="E:\java学习\资料\springboot2-master\com.cby.springcloud\common\src\main\java\com\cby\springcloud\entities" />
-      <recent name="E:\java学习\资料\springboot2-master\com.cby.springcloud\Commons\src\main\java\com\cby\springcloud" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -174,6 +174,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="openfeign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.OrderFeignMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cby.springcloud.OrderMain80" />
@@ -214,6 +221,7 @@
       <item itemvalue="Spring Boot.PaymentMain8001" />
       <item itemvalue="Spring Boot.GateWayMain" />
       <item itemvalue="Spring Boot.PaymenMain8002" />
+      <item itemvalue="Spring Boot.OrderFeignMain80" />
       <item itemvalue="Spring Boot.PayemntHystrixMain8001" />
       <item itemvalue="Spring Boot.HystrixDashboard" />
       <item itemvalue="Spring Boot.ConfigMain3344" />
@@ -284,7 +292,15 @@
       <workItem from="1649813417683" duration="5621000" />
       <workItem from="1649902492505" duration="34000" />
       <workItem from="1649995278449" duration="1812000" />
-      <workItem from="1650078490212" duration="1377000" />
+      <workItem from="1650078490212" duration="2037000" />
+      <workItem from="1650102206674" duration="1187000" />
+      <workItem from="1650248225056" duration="597000" />
+      <workItem from="1650275197186" duration="739000" />
+      <workItem from="1650334186844" duration="37000" />
+      <workItem from="1650337972549" duration="1860000" />
+      <workItem from="1650348730523" duration="3025000" />
+      <workItem from="1650357047415" duration="165000" />
+      <workItem from="1650358199798" duration="2286000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1649731164873</created>
@@ -328,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649819500997</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="..">
+      <created>1650081274370</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650081274370</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

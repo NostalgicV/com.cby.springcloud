@@ -18,6 +18,7 @@
         <module name="common" />
         <module name="eureka7002" />
         <module name="cloudAlibab-payment-9001" />
+        <module name="seate-order-service2001" />
         <module name="payment8001" />
         <module name="gateway" />
       </profile>
@@ -39,6 +40,7 @@
       <module name="order80" target="8" />
       <module name="payment8001" target="8" />
       <module name="payment8002" target="8" />
+      <module name="seate-order-service2001" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
